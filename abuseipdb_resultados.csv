@@ -1,0 +1,174 @@
+IP,AbuseScore,Country,ISP,Domain,TotalReports,LastReportedAt
+151.101.134.172,0,Spain,"Fastly, Inc.",fastly.com,0,
+142.251.37.35,0,France,Google LLC,google.com,1,2025-03-13T18:58:15+00:00
+142.250.179.67,4,France,Google LLC,google.com,3,2025-05-02T08:22:06+00:00
+20.50.171.146,0,Netherlands,Microsoft Corporation,microsoft.com,0,
+89.248.165.13,100,Netherlands,RECYBER PROJECT NETBLOCK,recyber.net,2620,2025-05-05T15:14:20+00:00
+185.43.182.17,0,Spain,Cachés de Akamai en Madrid,telefonica.com,0,
+66.240.236.119,100,United States of America,"CariNet, Inc.",cari.net,5416,2025-05-05T13:52:23+00:00
+142.250.200.131,0,Spain,Google LLC,google.com,1,2025-02-24T07:48:26+00:00
+154.212.141.253,100,Hong Kong,CloudInnovation infrastructure,cloudinnovation.org,16063,2025-05-05T15:40:43+00:00
+142.250.201.163,12,France,Google LLC,google.com,2,2025-04-24T18:10:05+00:00
+165.154.172.87,100,United States of America,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,ucloud.cn,1038,2025-05-05T02:21:00+00:00
+142.250.185.3,3,Spain,Google LLC,google.com,2,2025-04-24T08:29:39+00:00
+217.20.59.37,0,Spain,Qwilt INC,qwilt.com,0,
+206.168.32.63,100,United States of America,"Censys, Inc.",censys.com,3829,2025-05-05T15:13:30+00:00
+195.178.110.224,100,Netherlands,TECHOFF SRV LIMITED,,10719,2025-05-05T15:45:19+00:00
+5.255.145.66,0,Spain,Cachés de Akamai en Madrid,telefonica.com,0,
+57.129.64.219,100,Germany,OVH GmbH,ovh.net,19240,2025-05-05T15:49:14+00:00
+175.30.48.136,53,China,CHANGCHUN-YIQITONGXIN,189.cn,43,2025-05-04T20:01:06+00:00
+199.232.34.172,0,Spain,"Fastly, Inc.",fastly.com,0,
+172.217.17.10,0,Spain,Google LLC,google.com,0,2025-01-28T10:50:02+00:00
+162.142.125.93,0,United States of America,"Censys, Inc.",censys.com,8407,2025-05-05T15:05:56+00:00
+192.168.32.14,0,,,,0,
+195.184.76.93,100,United States of America,FR ONYPHE,onyphe.io,2810,2025-05-05T15:38:19+00:00
+193.163.125.210,100,United Kingdom of Great Britain and Northern Ireland,Driftnet Ltd,driftnet.io,4806,2025-05-05T15:30:19+00:00
+162.142.125.238,0,United States of America,"Censys, Inc.",censys.com,6714,2025-05-05T15:19:28+00:00
+193.3.53.8,100,United States of America,"Securitytrails, LLC",securitytrails.com,5397,2025-05-05T15:35:56+00:00
+47.254.248.116,100,Malaysia,Alibaba Cloud - MY,alibabacloud.com,2329,2025-05-05T13:51:00+00:00
+199.232.210.172,0,United States of America,"Fastly, Inc.",fastly.com,26,2025-05-01T06:17:03+00:00
+142.250.178.131,0,France,Google LLC,google.com,0,2024-10-11T07:52:44+00:00
+192.168.32.6,0,,,,0,
+fe80::bc9b:11fb:cba9:afc1,0,,Link Local Unicast,,0,
+150.107.36.236,100,United States of America,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,ucloud.cn,6177,2025-05-05T15:42:36+00:00
+fe80::1cd1:c759:c1a6:1961,0,,Link Local Unicast,,0,
+192.168.32.67,0,,,,0,
+57.128.230.106,100,Poland,OVH Sp. z o. o.,ovh.net,15810,2025-05-05T15:40:35+00:00
+13.107.42.16,14,United States of America,Microsoft Corporation,microsoft.com,19,2025-05-01T17:00:21+00:00
+47.236.230.118,24,Singapore,Alibaba Cloud LLC,alibaba-inc.com,11,2025-03-30T10:49:15+00:00
+165.154.129.43,100,United Kingdom of Great Britain and Northern Ireland,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,ucloud.cn,2284,2025-05-05T14:03:57+00:00
+128.203.203.196,100,United States of America,Microsoft Limited,microsoft.com,635,2025-05-05T14:32:12+00:00
+192.168.100.233,0,,,,0,
+68.183.13.202,100,Netherlands,"DigitalOcean, LLC",digitalocean.com,992,2025-05-05T03:09:11+00:00
+142.250.201.35,0,France,Google LLC,google.com,0,2024-11-04T12:48:02+00:00
+5.255.145.40,0,Spain,Cachés de Akamai en Madrid,telefonica.com,0,
+216.58.214.163,10,France,Google LLC,google.com,2,2025-04-24T12:14:09+00:00
+142.250.178.163,0,Spain,Google LLC,google.com,0,2025-01-15T13:36:51+00:00
+103.102.230.2,100,Canada,Skoali,skoali.com,21959,2025-05-05T04:22:26+00:00
+13.107.246.77,0,United States of America,Microsoft Corporation,microsoft.com,0,
+192.168.32.8,0,,,,0,
+172.217.17.3,0,Spain,Google LLC,google.com,1,2025-02-28T13:41:58+00:00
+196.251.70.48,100,Netherlands,internet-security-cheapyhost,cheapy.host,3441,2025-05-05T09:03:45+00:00
+83.222.191.182,100,Bulgaria,4Media Ltd.,4media.bg,13203,2025-05-05T15:51:02+00:00
+185.16.38.107,100,Poland,MEVSPACE sp. z o.o.,mevspace.com,8440,2025-05-05T15:39:50+00:00
+185.43.182.113,0,Spain,Cachés de Akamai en Madrid,telefonica.com,0,
+192.168.32.3,0,,,,0,
+203.122.35.29,36,India,Shyam Spectra Pvt Ltd,spectra.co,69,2025-04-03T12:06:13+00:00
+185.43.182.18,0,Spain,Cachés de Akamai en Madrid,telefonica.com,0,
+185.224.128.17,100,Netherlands,Alsycon B.V.,alsycon.nl,24584,2025-05-05T15:50:56+00:00
+103.102.230.3,100,Canada,Skoali,skoali.com,23727,2025-05-05T15:50:57+00:00
+199.232.214.172,0,United States of America,"Fastly, Inc.",fastly.com,19,2025-05-02T03:47:37+00:00
+20.64.107.9,59,United States of America,Microsoft Corporation,microsoft.com,99,2025-04-01T01:00:19+00:00
+142.250.200.99,3,Spain,Google LLC,google.com,1,2025-04-28T08:08:35+00:00
+fe80::6a69:866b:ed71:dcc3,0,,Link Local Unicast,,0,
+83.48.72.1,59,Spain,TELEFONICA DE ESPANA S.A.U.,movistar.es,32,2025-04-28T01:08:45+00:00
+137.74.181.245,100,France,ONYPHE SAS,onyphe.io,2143,2025-05-05T15:50:58+00:00
+206.168.32.62,100,United States of America,"Censys, Inc.",censys.com,3888,2025-05-05T15:38:40+00:00
+104.245.241.121,95,Turkey,VitalKey,vitalkey.io,793,2025-03-28T03:01:59+00:00
+185.43.182.122,0,Spain,Cachés de Akamai en Madrid,telefonica.com,0,
+103.167.90.113,100,Viet Nam,VIETSERVER VIET NAM SERVICE TECHNOLOGY COMPANY LIMITED,vietserver.vn,1506,2025-04-27T06:47:18+00:00
+192.168.32.11,0,,,,0,
+64.62.197.127,100,United States of America,"The Shadowserver Foundation, Inc.",shadowserver.org,3314,2025-05-05T11:03:43+00:00
+45.79.0.188,100,United States of America,Linode,linode.com,287,2025-05-05T06:59:40+00:00
+95.214.53.106,100,Poland,MEVSPACE sp. z o.o.,mevspace.com,3928,2025-04-30T08:39:09+00:00
+65.49.1.238,100,United States of America,"The Shadowserver Foundation, Inc.",shadowserver.org,1819,2025-05-05T15:50:58+00:00
+216.58.212.99,0,France,Google LLC,google.com,0,2024-01-01T13:46:35+00:00
+64.62.197.100,100,United States of America,"The Shadowserver Foundation, Inc.",shadowserver.org,3235,2025-05-05T14:50:59+00:00
+217.124.116.61,0,Spain,TELEFONICA DE ESPANA S.A.U.,movistar.es,0,2024-04-11T00:27:07+00:00
+142.250.184.174,0,Spain,Google LLC,google.com,0,2025-01-15T11:44:11+00:00
+198.235.24.50,0,Taiwan,"Palo Alto Networks, Inc",paloaltonetworks.com,5539,2025-05-05T13:47:24+00:00
+172.217.18.195,0,France,Google LLC,google.com,0,2025-01-24T13:18:24+00:00
+152.32.139.190,100,Korea (the Republic of),UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,ucloud.cn,1129,2025-05-05T13:51:06+00:00
+141.98.11.116,100,Lithuania,UAB Host Baltic,serveroffer.lt,1027,2025-05-05T12:06:56+00:00
+217.20.59.35,0,Spain,Qwilt INC,qwilt.com,0,
+83.222.191.162,100,Bulgaria,4Media Ltd.,4media.bg,13521,2025-05-05T15:51:02+00:00
+216.58.209.78,0,Spain,Google LLC,google.com,0,
+193.163.125.214,100,United Kingdom of Great Britain and Northern Ireland,Driftnet Ltd,driftnet.io,4834,2025-05-05T15:03:16+00:00
+100.29.192.82,100,United States of America,Amazon Data Services NoVa,amazon.com,1171,2025-05-05T00:02:41+00:00
+178.211.139.120,100,Poland,MEVSPACE sp. z o.o.,mevspace.com,4419,2025-04-07T19:40:19+00:00
+192.168.32.225,0,,,,0,
+167.94.138.135,0,United States of America,"Censys, Inc.",censys.com,9537,2025-05-05T15:04:30+00:00
+64.62.156.134,100,United States of America,"The Shadowserver Foundation, Inc.",shadowserver.org,1071,2025-05-05T15:00:09+00:00
+5.255.145.41,0,Spain,Cachés de Akamai en Madrid,telefonica.com,0,
+150.109.230.210,100,Korea (the Republic of),"Tencent Building, Kejizhongyi Avenue",tencent.com,317,2025-05-05T11:45:09+00:00
+216.58.209.67,0,Spain,Google LLC,google.com,0,2024-12-06T14:06:54+00:00
+5.255.145.211,0,Spain,Cachés de Akamai en Madrid,telefonica.com,0,
+199.45.154.190,100,Hong Kong,"Censys, Inc.",censys.com,9624,2025-05-05T15:40:31+00:00
+142.250.184.3,0,Spain,Google LLC,google.com,1,2025-03-14T14:32:44+00:00
+65.49.1.231,100,United States of America,"The Shadowserver Foundation, Inc.",shadowserver.org,1606,2025-05-05T15:44:08+00:00
+185.91.127.81,100,Germany,Ferdinand Zink trading as Tube-Hosting,tube-hosting.com,24063,2025-05-05T15:50:55+00:00
+172.217.20.163,0,France,Google LLC,google.com,0,2024-11-11T19:26:30+00:00
+185.43.182.10,0,Spain,Cachés de Akamai en Madrid,telefonica.com,0,
+8.8.8.8,0,United States of America,Google LLC,google.com,217,2025-05-05T15:00:55+00:00
+104.248.235.219,100,United States of America,"DigitalOcean, LLC",digitalocean.com,3582,2025-05-05T14:25:35+00:00
+142.250.179.99,0,France,Google LLC,google.com,0,2024-09-20T12:37:48+00:00
+184.24.0.227,0,Spain,"Akamai Technologies, Inc.",akamai.com,0,
+164.92.119.95,100,United States of America,"DigitalOcean, LLC",digitalocean.com,384,2025-04-28T05:26:42+00:00
+142.250.200.67,2,Spain,Google LLC,google.com,4,2025-04-09T08:36:45+00:00
+216.58.214.67,0,France,Google LLC,google.com,0,2024-09-27T12:21:47+00:00
+31.4.242.81,0,Spain,VODAFONE ESPANA S.A.U.,vodafone.es,0,2022-07-10T18:16:36+00:00
+fe80::7024:daff:fe25:d99,0,,Link Local Unicast,,0,
+185.11.61.93,100,Russian Federation,Chang Way Technologies Co. Limited,changway.hk,8852,2025-04-14T17:23:23+00:00
+fe80::1257:b2eb:9317:fe91,0,,Link Local Unicast,,0,
+206.168.34.161,100,United States of America,"Censys, Inc.",censys.com,10964,2025-05-05T15:41:05+00:00
+20.221.67.130,82,United States of America,Microsoft Corporation,microsoft.com,387,2025-04-26T12:25:50+00:00
+5.255.145.88,0,Spain,Cachés de Akamai en Madrid,telefonica.com,0,
+35.203.210.237,0,United Kingdom of Great Britain and Northern Ireland,Google LLC,google.com,3187,2025-05-05T08:03:48+00:00
+5.255.145.106,0,Spain,Cachés de Akamai en Madrid,telefonica.com,0,
+192.168.32.7,0,,,,0,
+187.134.237.130,27,Mexico,Uninet S.A. de C.V.,uninet.net.mx,34,2025-03-27T20:50:36+00:00
+139.99.165.142,100,Australia,OVH Australia PTY LTD,ovh.net,124,2025-05-04T08:22:10+00:00
+fe80::1441:acb8:5be4:f239,0,,Link Local Unicast,,0,
+103.102.230.4,100,Canada,Skoali,skoali.com,24045,2025-05-05T15:52:18+00:00
+142.250.185.10,0,Spain,Google LLC,google.com,1,2025-03-17T10:34:46+00:00
+193.32.162.83,100,Romania,UNMANAGED LTD,unmanaged.uk,2106,2025-05-04T00:08:54+00:00
+20.98.142.100,100,United States of America,Microsoft Corporation,microsoft.com,490,2025-04-15T07:35:44+00:00
+fe80::67ba:e868:3bef:c9af,0,,Link Local Unicast,,0,
+185.43.182.51,0,Spain,Cachés de Akamai en Madrid,telefonica.com,0,
+142.250.201.65,0,Spain,Google LLC,google.com,0,2025-01-08T12:49:18+00:00
+172.217.168.163,2,Spain,Google LLC,google.com,4,2025-04-09T07:49:36+00:00
+20.84.146.155,100,United States of America,Microsoft Corporation,microsoft.com,618,2025-04-18T13:02:33+00:00
+118.193.59.194,100,Germany,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,ucloud.cn,1066,2025-05-05T14:04:51+00:00
+192.168.32.199,0,,,,0,
+139.59.33.84,100,India,"DigitalOcean, LLC",digitalocean.com,7467,2025-05-05T15:50:53+00:00
+118.194.236.142,100,Japan,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,ucloud.cn,1029,2025-05-05T07:11:31+00:00
+192.168.32.230,0,,,,0,
+142.250.185.14,0,Spain,Google LLC,google.com,0,
+217.20.59.34,0,Spain,Qwilt INC,qwilt.com,0,
+216.58.213.67,0,France,Google LLC,google.com,1,2025-03-16T21:54:15+00:00
+217.20.59.36,0,Spain,Qwilt INC,qwilt.com,0,
+167.94.146.23,0,Germany,"Censys, Inc.",censys.com,10551,2025-05-05T15:30:26+00:00
+196.251.73.77,100,Netherlands,internet-security-cheapyhost,cheapy.host,12071,2025-04-19T07:22:02+00:00
+213.142.159.241,100,Turkey,HOSTING DUNYAM BILGI ILETISIM TEKNOLOJILERI TICARET LIMITED SIRKETI,hostingdunyam.com.tr,2268,2025-05-05T04:22:29+00:00
+204.79.197.239,7,United States of America,Microsoft Corporation,microsoft.com,5,2025-03-20T19:36:01+00:00
+194.180.48.35,96,Poland,Neterra Ltd.,neterra.net,776,2025-05-05T08:42:56+00:00
+185.242.226.109,100,Netherlands,HostUS Solutions LLC,hostus.us,898,2025-05-05T15:52:18+00:00
+162.62.132.25,100,Germany,"Tencent Building, Kejizhongyi Avenue",tencent.com,336,2025-05-05T15:27:17+00:00
+185.43.182.33,0,Spain,Cachés de Akamai en Madrid,telefonica.com,0,
+35.203.211.130,0,United Kingdom of Great Britain and Northern Ireland,Google LLC,google.com,3271,2025-05-05T03:04:27+00:00
+185.43.182.19,0,Spain,Cachés de Akamai en Madrid,telefonica.com,0,
+fe80::87f8:18:b712:aff1,0,,Link Local Unicast,,0,
+fe80::1c8e:50d:72f7:afb9,0,,Link Local Unicast,,0,
+147.185.132.103,0,United States of America,"Palo Alto Networks, Inc",paloaltonetworks.com,6494,2025-05-05T13:00:03+00:00
+83.222.191.42,100,Bulgaria,4Media Ltd.,4media.bg,22347,2025-05-05T15:52:39+00:00
+5.63.151.117,0,United Kingdom of Great Britain and Northern Ireland,Hosting Services Inc,westhost.com,602,2025-05-05T04:06:41+00:00
+142.250.74.227,0,France,Google LLC,google.com,0,
+54.37.81.238,100,France,OVH SAS,ovh.net,17237,2025-05-05T15:57:10+00:00
+183.107.147.45,25,Korea (the Republic of),Korea Telecom,kt.com,13,2025-04-03T09:02:38+00:00
+8.8.4.4,0,United States of America,Google LLC,google.com,131,2025-05-05T15:00:51+00:00
+45.135.193.100,100,Germany,Pfcloud UG,pfcloud.io,12896,2025-05-05T15:50:54+00:00
+13.107.21.200,0,United States of America,Microsoft Corporation,microsoft.com,1,2025-02-12T06:01:49+00:00
+184.105.247.238,100,United States of America,"The Shadowserver Foundation, Inc.",shadowserver.org,7845,2025-05-05T15:50:58+00:00
+194.50.16.131,100,Netherlands,Alsycon B.V.,alsycon.nl,576,2025-05-05T08:06:35+00:00
+48.217.152.85,51,United States of America,Microsoft Limited,microsoft.com,68,2025-03-26T17:38:19+00:00
+176.113.115.16,100,Russian Federation,Cat Technologies Co. Limited,cat-tec.com,6911,2025-04-14T17:23:23+00:00
+142.250.200.227,0,France,Google LLC,google.com,0,2024-12-05T16:46:40+00:00
+104.140.148.74,100,United States of America,Eonix Corporation,eonix.net,249,2025-04-25T17:17:49+00:00
+194.0.234.106,100,Lithuania,SKYNET NETWORK LTD,skynet.ge,4291,2025-05-05T15:27:43+00:00
+117.72.9.38,86,China,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",jd.com,219,2025-04-06T13:28:31+00:00
+209.74.80.178,1,United States of America,"Namecheap, Inc.",namecheap.com,1,2025-03-26T04:10:19+00:00
+212.231.124.126,0,Spain,XTRA TELECOM S.A.,xtratelecom.es,0,
+64.62.197.132,100,United States of America,"The Shadowserver Foundation, Inc.",shadowserver.org,3284,2025-05-05T15:03:39+00:00
+204.79.197.200,0,United States of America,Microsoft Corporation,microsoft.com,1,2025-02-12T06:22:04+00:00
+192.168.32.15,0,,,,0,
+165.154.135.215,100,United States of America,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,ucloud.cn,1782,2025-05-05T15:03:27+00:00
