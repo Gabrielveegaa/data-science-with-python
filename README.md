@@ -163,8 +163,4 @@ Durante el desarrollo del proyecto se trabajó en:
 - Desarrollo de dashboards con Streamlit
 - Aplicación de machine learning en ciberseguridad
 
----
 
-# 🙏 Agradecimientos
-
-Gracias a los instructores, compañeros y recursos utilizados durante el curso de Ciencia de Datos con Python, que hicieron posible el desarrollo de este proyecto y el aprendizaje de herramientas fundamentales para el análisis de datos y la ciberseguridad.
